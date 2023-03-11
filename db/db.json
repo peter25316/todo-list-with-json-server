@@ -1,24 +1,9 @@
 {
   "todos": [
     {
-      "content": "sdsd",
-      "id": 1,
-      "completed": false
-    },
-    {
-      "content": "dfg",
+      "content": "cvxcbbcvx",
       "completed": false,
-      "id": 2
-    },
-    {
-      "content": "dfg",
-      "completed": false,
-      "id": 3
-    },
-    {
-      "content": "dsfds",
-      "completed": false,
-      "id": 4
+      "id": 1
     }
   ]
 }
